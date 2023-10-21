@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
 <h3 align="center">I'm a Frontend Developer who is also passionate about UI/UX.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damarwendh&label=Profile%20views&color=0e75b6&style=flat" alt="damarwendh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damarwendha&label=Profile%20views&color=0e75b6&style=flat" alt="damarwendha" /> </p>
 
 - 🌱 I’m currently learning **React**
 
