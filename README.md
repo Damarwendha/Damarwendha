@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
-<h3 align="center">I'm a Frontend Developer who is also passionate about UI/UX.</h3>
+<h3 align="center">I'm a React Developer Enthusiast who is also passionate about UI/UX.</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React 😁**
 
 - 📫 How to reach me **sienkhumaen@gmail.com**
 
