@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
 <p>I'm a <strong>React Developer</strong> Enthusiast who is also passionate about UI/UX.</p>
-<p>User Experience is my priority.</p>
 
-- 🌱 I’m currently learning **React 😁**
+- 🎡 User Experience is my priority
+
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sienkhumaen@gmail.com**
 
