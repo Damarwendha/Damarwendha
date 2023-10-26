@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
-<p align="center">I'm a <strong>React Developer</strong> Enthusiast who is also passionate about UI/UX.</p>
-
+<p>I'm a <strong>React Developer</strong> Enthusiast who is also passionate about UI/UX.</p>
+<p>User Experience is my priority.</p>
 
 - 🌱 I’m currently learning **React 😁**
 
