@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
-<p>I'm a <strong>React Developer</strong> Enthusiast who is also passionate about UI/UX.</p>
+<p align="center">I'm a <strong>React Developer</strong> Enthusiast who is also passionate about UI/UX.</p>
 
 - 🎡 User Experience is my priority
 
