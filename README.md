@@ -1,10 +1,8 @@
 <h1 align="left">Hi 👋, I'm Damarwendha</h1>
 
 - 🧑 I'm from East Java, Indonesia 
-- 🌱 I’m currently learning **React**
-- 🎯 I have big plans for my career!😅 okay the first one, I want to create my own network (when I learn something, I always set my aim high). Second, I really enjoy design...so I'm going to learn more about design principles. The last thing is, I love games especially Stardew Valley (which is the absolute best!) and that's motivating me to make my own game. 😄
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me **sienkhumaen@gmail.com**
-- 🐌 Fun Fact: Writing code is addictive for me because I feel a rush of adrenaline when I solve problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
