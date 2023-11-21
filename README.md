@@ -1,9 +1,12 @@
  <h1 align="center">  Hi 👋, I'm Damarwendha</h1>
- <h3 align="center">Developer 💻 | Designer 🎨 | Dreamer 🐱‍🏍</h3>
- <h5 align="center">🧑 Based in East Java, Indonesia</h5>
+ <h3 align="left">Developer 💻 |</h3>
+ <h3 align="center">Designer 🎨 |</h3>
+ <h3 align="right">Dreamer 🐱‍🏍 |</h3>
+ <h3 align="left">🧑 Based in East Java, Indonesia</h3>
+ <h3 align="center">🌱 I’m currently learning NextJS </h3>
+ <h3 align="right">📫 sienkhumaen@gmail.com</h3>
 
-- 🌱 I’m currently learning **Next.js** 
-- 📫 Reach me at **sienkhumaen@gmail.com**
+<h3 align="left">Let's code and design together! 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
