@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
-<h3 align="center">Developer 💻 | Designer 🎨 | Dreamer 🐱‍🏍</h3>
 
 - 🌱 I’m currently learning **NextJS**
+
+- 🗽 I also developed my own website: https://qwertylink.vercel.app/ (Under development - Private Repository)
 
 - 📫 How to reach me **sienkhumaen@gmail.com**
 
