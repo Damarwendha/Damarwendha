@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
 
-- 🌱 I’m currently learning **NextJS**
+- 🤓 I’m currently learning **NextJS**
 
-- 🗽 I also developed my own website: https://qwertylink.vercel.app/ (Under development - Private Repository)
+- 🧐 I focused on enhancing user experience by implementing intuitive user interfaces, smooth transitions, fast performance, and accessibility features
 
-- 📫 How to reach me **sienkhumaen@gmail.com**
+- 🤠 Here I also built my own website: https://qwertylink.vercel.app/ (Currently Under development - Private Repository)
+
+-  👀 How to reach me **sienkhumaen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
