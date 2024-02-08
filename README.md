@@ -2,7 +2,7 @@
 
 - 🤓 I’m currently learning **NextJS**
 
-- 🧐 I focused on enhancing user experience by implementing intuitive user interfaces, smooth transitions, fast performance, and accessibility features
+- 🧐 I focused on enhancing user experience by implementing intuitive user interfaces, smooth transitions, high performance, and accessibility features
 
 - 🤠 Here I also built my own website: https://qwertylink.vercel.app/ (Currently Under development - Private Repository)
 
