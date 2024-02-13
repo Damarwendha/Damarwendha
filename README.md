@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damarwendha</h1>
 
-- 🤓 I’m currently learning **NextJS**
+- 🤓 I’m currently learning **Golang**
 
 - 🧐 I focused on enhancing user experience by implementing intuitive user interfaces, smooth transitions, high performance, and accessibility features
 
