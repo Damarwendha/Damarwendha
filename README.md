@@ -31,14 +31,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31gzhm347puw5kvfxl3t2zmlkho4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gzhm347puw5kvfxl3t2zmlkho4&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/0rd4t7lbGi8AAAAC/dog-working.gif"  />
 
 ###
@@ -46,5 +38,3 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damarwendha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
