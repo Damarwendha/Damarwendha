@@ -39,10 +39,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img height="150" src="https://media1.tenor.com/m/0rd4t7lbGi8AAAAC/dog-working.gif"  />
-</div>
-
 ###
 
 <div align="left">
